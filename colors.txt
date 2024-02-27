@@ -1,0 +1,10 @@
+Orange for login : #FF652F
+form background: black 
+description : 
+Build a transparent Login form and add a background image , Avatar icon (Src in description below ) , to make this work there will be two forms
+The Login form and the Forget password one . 
+Elements : Login form : UserName , Password
+	     Forget pwd : Email 
+Bonus : 
+Make the page responsive using Flexbox 
+Apply animation style to the elements
